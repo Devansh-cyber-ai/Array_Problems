@@ -27,5 +27,3 @@ These problems cover common interview concepts such as searching, rotation, suba
 ## 📂 File Structure
 
 Each file contains one problem solution.
-
-Example:
